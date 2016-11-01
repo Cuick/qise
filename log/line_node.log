@@ -1,0 +1,1557 @@
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+need wait nodes ['line@127.0.0.1','timer@127.0.0.1','db@127.0.0.1',
+                 'guild@127.0.0.1','auth@127.0.0.1','gm@127.0.0.1',
+                 'chat1@127.0.0.1','map1@127.0.0.1','map2@127.0.0.1',
+                 'map3@127.0.0.1','map4@127.0.0.1','gate1@127.0.0.1',
+                 'gate2@127.0.0.1','api@127.0.0.1'] 
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+ping Node 'line@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+ping Node 'timer@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'db@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'guild@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'auth@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'gm@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'chat1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'map1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map3@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map4@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'api@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:44 ===
+db_operater_mod start end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:45 ===
+global_wait finished 
+
+=INFO REPORT==== 10-Dec-2014::18:36:45 ===
+wait_tables_in_dbnode end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:52 ===
+ets [map_info_db,login_pb,top_bar_item_db,travel_match_db,language,
+     item_template_db,travel_battle_db] are ok now!
+
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,4003,map_3_4003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7004,map_3_7004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8003,map_3_8003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7019,map_3_7019} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7022,map_3_7022} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7010,map_3_7010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,503,map_3_503} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7023,map_3_7023} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,602,map_3_602} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,4000,map_3_4000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1200,map_3_1200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,5006,map_3_5006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,321,map_3_321} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,604,map_3_604} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7025,map_3_7025} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1201,map_3_1201} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+regist_mapprocessor {'map3@127.0.0.1',3,310,map_3_310} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,700,map_3_700} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7007,map_3_7007} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1812,map_3_1812} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1301,map_3_1301} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,701,map_3_701} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1811,map_3_1811} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8100,map_3_8100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,800,map_3_800} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,312,map_3_312} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,600,map_3_600} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map4@127.0.0.1',4,4003,map_4_4003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7018,map_3_7018} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,200,map_3_200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1202,map_3_1202} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,5003,map_3_5003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7004,map_4_7004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,330,map_3_330} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8003,map_4_8003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7015,map_3_7015} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,304,map_3_304} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7019,map_4_7019} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7022,map_4_7022} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1300,map_3_1300} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7010,map_4_7010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+regist_mapprocessor {'map4@127.0.0.1',4,503,map_4_503} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,6002,map_3_6002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,5004,map_3_5004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,306,map_3_306} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8010,map_3_8010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7023,map_4_7023} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,602,map_4_602} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,4000,map_4_4000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,900,map_3_900} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,4003,map_2_4003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1200,map_4_1200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,5006,map_4_5006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,321,map_4_321} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,604,map_4_604} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4003,map_1_4003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7004,map_2_7004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1001,map_3_1001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8003,map_2_8003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7025,map_4_7025} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1201,map_4_1201} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,6004,map_3_6004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7004,map_1_7004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,4002,map_3_4002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8003,map_1_8003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7019,map_2_7019} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7021,map_3_7021} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7019,map_1_7019} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,305,map_3_305} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,310,map_4_310} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7022,map_1_7022} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7022,map_2_7022} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,311,map_3_311} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7010,map_1_7010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,503,map_1_503} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7010,map_2_7010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,503,map_2_503} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,103,map_3_103} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8002,map_3_8002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7023,map_1_7023} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,339,map_1_339} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7023,map_2_7023} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,602,map_2_602} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,602,map_1_602} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,4000,map_2_4000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1200,map_2_1200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4104,map_1_4104} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,5006,map_2_5006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4112,map_1_4112} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4000,map_1_4000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1200,map_1_1200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,321,map_2_321} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,604,map_2_604} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,5006,map_1_5006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,700,map_4_700} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,309,map_3_309} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,321,map_1_321} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,604,map_1_604} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,4100,map_3_4100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7025,map_2_7025} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1201,map_2_1201} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1601,map_3_1601} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,302,map_3_302} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7025,map_1_7025} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1403,map_3_1403} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1201,map_1_1201} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map2@127.0.0.1',2,310,map_2_310} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map1@127.0.0.1',1,310,map_1_310} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7007,map_4_7007} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1812,map_4_1812} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1000,map_3_1000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1301,map_4_1301} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,5005,map_3_5005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,701,map_4_701} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,332,map_3_332} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1811,map_4_1811} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1401,map_3_1401} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8100,map_4_8100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8009,map_3_8009} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,800,map_4_800} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,312,map_4_312} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map4@127.0.0.1',4,600,map_4_600} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7012,map_3_7012} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7030,map_3_7030} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7018,map_4_7018} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1100,map_3_1100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,700,map_1_700} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4108,map_1_4108} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,200,map_4_200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,700,map_2_700} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1202,map_4_1202} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,5003,map_4_5003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,330,map_4_330} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1400,map_3_1400} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7007,map_1_7007} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1812,map_1_1812} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1301,map_1_1301} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7015,map_4_7015} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,701,map_1_701} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,304,map_4_304} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1811,map_1_1811} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7002,map_3_7002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,4001,map_3_4001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4107,map_1_4107} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,601,map_3_601} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4109,map_1_4109} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7007,map_2_7007} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8100,map_1_8100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4103,map_1_4103} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8001,map_3_8001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1812,map_2_1812} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,331,map_3_331} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1301,map_2_1301} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,701,map_2_701} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1811,map_2_1811} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,800,map_1_800} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8100,map_2_8100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,300,map_3_300} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,800,map_2_800} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,312,map_1_312} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,600,map_1_600} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1300,map_4_1300} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,312,map_2_312} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7027,map_3_7027} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,600,map_2_600} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7018,map_1_7018} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,6002,map_4_6002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,5004,map_4_5004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,200,map_1_200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1202,map_1_1202} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7008,map_3_7008} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,306,map_4_306} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7018,map_2_7018} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,5003,map_1_5003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8010,map_4_8010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,900,map_4_900} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,330,map_1_330} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7028,map_3_7028} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8004,map_3_8004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1001,map_4_1001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,5002,map_3_5002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,301,map_3_301} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,6004,map_4_6004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,200,map_2_200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7015,map_1_7015} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,4002,map_4_4002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,304,map_1_304} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1202,map_2_1202} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,5003,map_2_5003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,330,map_2_330} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7021,map_4_7021} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,313,map_3_313} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,305,map_4_305} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,303,map_3_303} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7015,map_2_7015} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map2@127.0.0.1',2,304,map_2_304} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,311,map_4_311} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7014,map_3_7014} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7005,map_3_7005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map3@127.0.0.1',3,333,map_3_333} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,103,map_4_103} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8002,map_4_8002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1300,map_1_1300} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1300,map_2_1300} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,309,map_4_309} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,4100,map_4_4100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,6002,map_1_6002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,5004,map_1_5004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1601,map_4_1601} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,306,map_1_306} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,302,map_4_302} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,6002,map_2_6002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,5004,map_2_5004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1403,map_4_1403} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4105,map_1_4105} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,306,map_2_306} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8010,map_2_8010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8010,map_1_8010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,900,map_2_900} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4113,map_1_4113} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,900,map_1_900} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1500,map_3_1500} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1001,map_1_1001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map3@127.0.0.1',3,501,map_3_501} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1000,map_4_1000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,5005,map_4_5005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,6004,map_1_6004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4002,map_1_4002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,332,map_4_332} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4114,map_1_4114} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1401,map_4_1401} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8009,map_4_8009} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1001,map_2_1001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7012,map_4_7012} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7021,map_1_7021} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,305,map_1_305} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,6004,map_2_6004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,4002,map_2_4002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7030,map_4_7030} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1100,map_4_1100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,311,map_1_311} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map3@127.0.0.1',3,500,map_3_500} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7021,map_2_7021} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,305,map_2_305} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1400,map_4_1400} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7017,map_3_7017} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8006,map_3_8006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,103,map_1_103} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map3@127.0.0.1',3,6005,map_3_6005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8002,map_1_8002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7002,map_4_7002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,4001,map_4_4001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,311,map_2_311} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,601,map_4_601} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8001,map_4_8001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map3@127.0.0.1',3,605,map_3_605} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,331,map_4_331} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,309,map_1_309} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,300,map_4_300} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4100,map_1_4100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7027,map_4_7027} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,103,map_2_103} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1601,map_1_1601} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8002,map_2_8002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,302,map_1_302} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1403,map_1_1403} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7008,map_4_7008} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7028,map_4_7028} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8004,map_4_8004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map2@127.0.0.1',2,309,map_2_309} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,5002,map_4_5002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+regist_mapprocessor {'map4@127.0.0.1',4,301,map_4_301} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,4100,map_2_4100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,9000,map_3_9000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1601,map_2_1601} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,302,map_2_302} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,313,map_4_313} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1403,map_2_1403} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,303,map_4_303} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1000,map_1_1000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,5005,map_1_5005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,332,map_1_332} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7014,map_4_7014} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1401,map_1_1401} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8009,map_1_8009} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7005,map_4_7005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,333,map_4_333} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1000,map_2_1000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7012,map_1_7012} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,5005,map_2_5005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,332,map_2_332} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7001,map_3_7001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1401,map_2_1401} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8009,map_2_8009} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7030,map_1_7030} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1100,map_1_1100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7006,map_3_7006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7012,map_2_7012} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,802,map_3_802} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1203,map_3_1203} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7030,map_2_7030} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1100,map_2_1100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7024,map_3_7024} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,4004,map_3_4004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8005,map_3_8005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1500,map_4_1500} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,501,map_4_501} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1400,map_1_1400} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,603,map_3_603} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,101,map_3_101} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,320,map_3_320} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1400,map_2_1400} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7002,map_1_7002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4001,map_1_4001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,601,map_1_601} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8001,map_1_8001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7003,map_3_7003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7002,map_2_7002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map1@127.0.0.1',1,331,map_1_331} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,4001,map_2_4001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,500,map_4_500} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,601,map_2_601} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8001,map_2_8001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,331,map_2_331} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,300,map_2_300} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7017,map_4_7017} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8006,map_4_8006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map4@127.0.0.1',4,6005,map_4_6005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7027,map_2_7027} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7008,map_2_7008} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,1600,map_3_1600} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,901,map_3_901} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,902,map_3_902} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8007,map_3_8007} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,5010,map_3_5010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map4@127.0.0.1',4,605,map_4_605} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,8008,map_3_8008} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7028,map_2_7028} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8004,map_2_8004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,5002,map_2_5002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,301,map_2_301} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,502,map_3_502} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,2001,map_3_2001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,313,map_2_313} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7029,map_3_7029} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,303,map_2_303} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7020,map_3_7020} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7014,map_2_7014} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,4200,map_3_4200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7005,map_2_7005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7016,map_3_7016} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,333,map_2_333} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7013,map_3_7013} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,6001,map_3_6001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7026,map_3_7026} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7011,map_3_7011} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,307,map_3_307} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,5001,map_3_5001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map4@127.0.0.1',4,9000,map_4_9000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,100,map_3_100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,102,map_3_102} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1500,map_2_1500} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,501,map_2_501} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,7009,map_3_7009} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1205,map_1_1205} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map3@127.0.0.1',3,801,map_3_801} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,500,map_2_500} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7017,map_2_7017} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8006,map_2_8006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map1@127.0.0.1',1,300,map_1_300} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map2@127.0.0.1',2,6005,map_2_6005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7001,map_4_7001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7006,map_4_7006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7027,map_1_7027} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,605,map_2_605} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,802,map_4_802} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1203,map_4_1203} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7024,map_4_7024} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,4004,map_4_4004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8005,map_4_8005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,603,map_4_603} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,101,map_4_101} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,320,map_4_320} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7003,map_4_7003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,1600,map_4_1600} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,9000,map_2_9000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,901,map_4_901} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,902,map_4_902} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8007,map_4_8007} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,5010,map_4_5010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,8008,map_4_8008} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,502,map_4_502} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,2001,map_4_2001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7001,map_2_7001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7029,map_4_7029} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7020,map_4_7020} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7006,map_2_7006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,4200,map_4_4200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1206,map_1_1206} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,802,map_2_802} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1203,map_2_1203} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7016,map_4_7016} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7024,map_2_7024} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,4004,map_2_4004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8005,map_2_8005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7013,map_4_7013} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,6001,map_4_6001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7026,map_4_7026} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,603,map_2_603} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,101,map_2_101} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,320,map_2_320} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7011,map_4_7011} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map4@127.0.0.1',4,307,map_4_307} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map4@127.0.0.1',4,5001,map_4_5001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7008,map_1_7008} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7003,map_2_7003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map4@127.0.0.1',4,100,map_4_100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4106,map_1_4106} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map4@127.0.0.1',4,102,map_4_102} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7028,map_1_7028} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8004,map_1_8004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,5002,map_1_5002} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,301,map_1_301} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map4@127.0.0.1',4,7009,map_4_7009} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,313,map_1_313} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,303,map_1_303} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map4@127.0.0.1',4,801,map_4_801} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7014,map_1_7014} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,1600,map_2_1600} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,901,map_2_901} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,902,map_2_902} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8007,map_2_8007} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7005,map_1_7005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,333,map_1_333} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,5010,map_2_5010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,8008,map_2_8008} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,502,map_2_502} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,2001,map_2_2001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7029,map_2_7029} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7020,map_2_7020} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,4200,map_2_4200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1500,map_1_1500} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,501,map_1_501} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7016,map_2_7016} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7013,map_2_7013} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,6001,map_2_6001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,500,map_1_500} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7026,map_2_7026} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7017,map_1_7017} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8006,map_1_8006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,6005,map_1_6005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7011,map_2_7011} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,307,map_2_307} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,5001,map_2_5001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map1@127.0.0.1',1,605,map_1_605} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,100,map_2_100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,102,map_2_102} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+regist_mapprocessor {'map2@127.0.0.1',2,7009,map_2_7009} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map2@127.0.0.1',2,801,map_2_801} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,9000,map_1_9000} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7001,map_1_7001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7006,map_1_7006} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,802,map_1_802} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1203,map_1_1203} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4102,map_1_4102} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4110,map_1_4110} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7024,map_1_7024} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4004,map_1_4004} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8005,map_1_8005} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,603,map_1_603} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,101,map_1_101} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,320,map_1_320} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4115,map_1_4115} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7003,map_1_7003} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,1600,map_1_1600} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,901,map_1_901} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,902,map_1_902} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8007,map_1_8007} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,5010,map_1_5010} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,8008,map_1_8008} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,502,map_1_502} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,2001,map_1_2001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7029,map_1_7029} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7020,map_1_7020} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4200,map_1_4200} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7016,map_1_7016} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4101,map_1_4101} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7013,map_1_7013} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,4111,map_1_4111} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,6001,map_1_6001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7026,map_1_7026} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7011,map_1_7011} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,307,map_1_307} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,5001,map_1_5001} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,100,map_1_100} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:14 ===
+regist_mapprocessor {'map1@127.0.0.1',1,102,map_1_102} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:15 ===
+regist_mapprocessor {'map1@127.0.0.1',1,7009,map_1_7009} 
+ 
+=INFO REPORT==== 10-Dec-2014::18:38:15 ===
+regist_mapprocessor {'map1@127.0.0.1',1,801,map_1_801} 
+ 

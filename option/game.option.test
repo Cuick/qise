@@ -1,0 +1,190 @@
+[
+	{line_switch,[{fixed,[1,2]},
+             {dynamic,[3,4]},
+             {open_count,250}]},
+	{lines,[1,2,3,4]},
+    {nodes,[{gate,['gate1','gate2']}
+		,{map,['map1','map2','map3','map4','map_travel1','map_travel2','map_travel3','map_travel4']}
+		,{gm,['gm']}
+		,{cross,['cross']}
+		,{chat,['chat1']}
+		,{db,['db']}
+		,{dbslave,['dbslave']}
+		,{guild,['guild']}
+		,{line,['line']}
+		,{auth,['auth']}
+		,{timer,['timer']}
+		,{api,['api']}
+		%%跨服进程
+		,{map_travel,['map_travel1','map_travel2','map_travel3','map_travel4']}
+		%%{全局唯一的进程,[启动节点]}
+		,{guild_manager,['guild']}
+		,{country_manager,['guild']}
+		,{auth_processor,['auth']}
+		,{gmauth_processor,['auth']}
+		,{loudspeaker_manager,['chat1']}
+		,{guildid_generator,['line']}
+		,{instanceid_generator,['line']}
+		,{itemid_generator,['line']}
+		,{gm_notice_checker,['line']}
+		,{lines_manager,['line']}
+		,{line_processor,['line']}
+		,{mailid_generator,['line']}
+		,{petid_generator,['line']}
+		,{roleid_generator,['line']}
+		,{visitor_generator,['line']}
+		,{activity_manager,['map2','map_travel2']}
+		,{auction_manager,['map2','map_travel2']}
+		,{battle_ground_manager,['map2','map_travel2']}
+		,{guildbattle_manager,['map2','map_travel2']}
+		,{dragon_fight_processor,['map2','map_travel2']}			%%与activity_manager同一节点
+		,{answer_processor,['map2','map_travel2']}						%%与activity_manager同一节点
+		,{game_rank_manager,['map2','map_travel2']}
+		,{travel_battle_manager,['map_travel1']}
+		,{group_manager,['map2','map_travel2']}
+		,{loop_instance_mgr,['map2','map_travel2']}
+		,{db_node,['db']}												%%数据库进程所在节点
+		,{gm_node,['gm']}
+		,{guild_instance_processor,['map2','map_travel2']}
+		,{open_service_auction_manager,['map1','map_travel2']}
+		,{top_bar_manager,['map1','map_travel1']}
+		,{travel_match_manager,['map_travel1']}
+		,{dead_valley_manager,['map_travel1']}
+		,{travel_tangle_manager,['map_travel1']}
+		]},
+
+	 {travel_battle_map_node,[{1,'travel_share_map_travel1@192.168.222.189','E3it45tiOjLi&fie8Hje56uMu67h'},{2,'travel_share_map_travel2@192.168.222.189','E3it45tiOjLi&fie8Hje56uMu67h'},{3,'travel_share_map_travel3@192.168.222.189','E3it45tiOjLi&fie8Hje56uMu67h'},{4,'travel_share_map_travel4@192.168.222.189','E3it45tiOjLi&fie8Hje56uMu67h'}]},
+	{travel_battle_map,[6004,6005,9000,4000,1205,1206]},
+	{travel_battle_map1,[1205,1206]},
+	{travel_battle_db_map_node, 'travel_share_map_travel1@192.168.222.189'},
+	{travel_battle_db_map_node1, ['travel_share_map_travel1@192.168.222.189']},
+	
+	{gmaccount,[]},
+	{create_role_base,role_create_deploy},
+	
+	{gm_logger,[{tempdir,"./"},{outdir,"/app/gm/xueyu2log/loglist/"},{close_file_interval,60000}]},
+	{gm_insert_mysql,[{buffer_lines,1000},
+					  {interval,120000},
+			   		  {interval_ext,[{create_role,30000},{gold_change,60000}]}
+	]},
+	
+    {gift_card_url,"http://web.4399.com/zy/xsk/"},
+	{gift_card_itemid,{10031001,10031002,10031008,10031009,10031010}},
+	{media_card_url,"/media_card_op.php"},
+	{media_card_host,"192.168.0.110"},
+	{media_card_port,8005},
+	{system_status,[
+	            %% key , {current ,filteripvalue}
+	            {1,{1,1}},
+				{2,{1,1}}, 
+				{3,{1,1}}, 
+	            {4,{0,0}}, 
+	            {5,{1,1}},  
+	            {6,{1,1}},  
+	            {7,{0,0}},	
+	            {8,{1,1}},	
+	            {9,{1,1}},  
+	            {10,{1,1}}, 
+		    	{11,{1,1}},   
+		    	{12,{1,1}}, 
+		    	{13,{0,0}},  
+		    	{14,{1,1}},	
+		    	{15,{1,1}},	
+		    	{16,{1,1}},
+		    	{17,{1,1}},
+		    	{18,{1,1}},	
+				{22,{1,1}},
+				{23,{0,0}}	
+	            ]},
+	{commoncdswitch,1},	
+	{yhzq_battle_group_type,2}, 
+	{register_enable,1},
+	{aoi_view,28},
+	{monster_reaction_time,500},
+	%%抽奖冷却时间 
+	{lottery_cooldown,1800},	
+	{global_wait,
+	[
+	%%{节点类型,[需要当作global使用的进程]}
+	{gate,[auth_processor,gmauth_processor,lines_manager,db_node,gm_node]}
+	,{auth,[auth_processor,gmauth_processor,itemid_generator,mailid_generator,petid_generator,roleid_generator,visitor_generator,db_node]}
+	,{gm,[auth_processor,gmauth_processor,lines_manager,mailid_generator,db_node,gm_node]}
+	,{chat,[lines_manager,loudspeaker_manager,db_node,gm_node]}
+	,{map,[auction_manager,guild_manager,loudspeaker_manager,instanceid_generator,
+					itemid_generator,line_processor,lines_manager,mailid_generator,
+					petid_generator,roleid_generator,visitor_generator,activity_manager,group_manager,country_manager,loop_instance_mgr,
+					auction_manager,battle_ground_manager,dragon_fight_processor,answer_processor,db_node,gm_node,
+					game_rank_manager,guildbattle_manager,guild_instance_processor,open_service_auction_manager,top_bar_manager]}
+	,{guild,[guild_manager,guildid_generator,mailid_generator,db_node,gm_node,country_manager]}
+	,{db,[itemid_generator,mailid_generator,petid_generator,roleid_generator,visitor_generator,db_node,gm_node]}
+	,{line,[guildid_generator,instanceid_generator,loudspeaker_manager,
+					itemid_generator,gm_notice_checker,lines_manager,line_processor,
+					mailid_generator,petid_generator,roleid_generator,visitor_generator,db_node,gm_node]}
+	]},
+	{nodes_ram_table,[
+					{map,[role_pos,instance_pos,groups,role_recruitments,rank_role_db]},
+	                {gate,[role_pos,instance_pos]},	              
+					{chat,[role_pos,instance_pos]},
+					{line,[role_pos,instance_pos,rank_role_db]},
+					{guild,[role_pos]},
+					{gm,[role_pos]}
+					]},				
+	{nodes_ets,[
+				 {map,all},	  					
+				 {map_travel,all},
+				 {gate,[role_db,login_pb,senswords,item_template_db,blackip,whiteip,system_chat_db,autoname_db,map_info_db]},
+				 {line,[map_info_db,login_pb,top_bar_item_db,travel_match_db,language,item_template_db,travel_battle_db]},
+				 {guild,[guild_proto_db,guild_treasure_transport_db,db_split,senswords,language,login_pb,system_chat_db,item_template_db,country_db,guildbattle_db]},
+				 {chat,[senswords,login_pb,system_chat_db]},
+				 {api, []}
+				 ]},
+	{gm,[{acceptor_count,2}]},
+	{api,[{acceptor_count,2}]},
+	{gm_logger_enable,[{role,enable},
+					   {guild,enable}]},
+	{gate,[{acceptor_count,2}]},
+	
+	{dmp,[{flush_interval,300000},{ets_swap_seconds,300}]},
+		   
+	{unknown,[]},
+	%%备份数据
+	{dbback,[{output,"../backup/"},
+			 {checkinterval,60000}, %% 1 min check
+			 {ignortables,[]},
+			 {between_hour,{4,5}},
+			 {backinterval,3600000}, 
+			 {serverbackupdbfile,"zybackup_db"}]},
+	
+	{sensitive,"../option/senswords.config"}, %%敏感词典
+	{nameissensitive,"../option/blackname.config"}, %%起名字全匹配
+	{nameisblackheader,"../option/blacknameheader.config"}, %%起名字前头匹配
+	
+	{language,"../option/zh_cn.config"},																								%%语言配置文件
+	
+	{whiteip,[{file,"../option/whiteip.config"}]},
+	
+	{blackip,[{file,"../option/blackip.config"}]},
+	
+	{logtypemax,[{1,100},{2,100},{3,100},{4,100},{5,100},{6,100}]},
+	{hot_item,[19010210,17000080,13010010,19000490]},
+	{fatigue,[{disable,true}, 
+		{version,fatigue_ver2}, 
+		{goto_url,"http://ceshi.qise135.com/login.php"},
+		{ver2_warning_msg1,<<"您已连续游戏一个小时，请自觉控制游戏时间，享受健康生活！">>},
+		{ver2_warning_msg2,<<"您已连续游戏两个小时，请自觉控制游戏时间，享受健康生活！">>},
+		{ver2_alert_msg1,<<"您累计在线时间已满3小时，请您下线休息，做适当身体运动！">>},
+		{ver2_alert_msg2,<<"您已经进入了疲劳游戏时间。您的游戏收益将降为正常值的50%，为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活！">>},
+		{ver2_alert_msg3,<<"您已经进入了疲劳游戏时间。您的游戏收益将降为正常值的50%，为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活！">>},
+		{ver2_alert_msg4,<<"您已经进入了疲劳游戏时间。您的游戏收益将降为正常值的50%，为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活！">>},
+		{ver2_offline_msg,<<"您已连续游戏五个小时，将自动下线！">>},
+		{ver2_login_msg,<<"您由于连续游戏时间达到五个小时，必须休息五个小时后才能继续游戏！">>},
+		{clear_relex_seconds,18000},
+		{first_warning_seconds,3600},
+		{second_warning_seconds,7200},
+		{first_alert_seconds,10800},
+		{second_alert_seconds,12600},
+		{third_alert_seconds,14400},
+		{fouth_alert_seconds,16200},
+		{max_fatigue_seconds,18000}
+	]}
+].

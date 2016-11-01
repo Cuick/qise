@@ -1,0 +1,7 @@
+cmd=role_quest_log&roleid=60000003&action=accept&quest=100100032&rolelevel=9&time=1418208026
+cmd=role_get_item&roleid=60000003&item=[{1490000001,1116000007}]&count=1&proto=12010611&reason=got_quest&rolelevel=9&time=1418208029
+cmd=role_boundsilver_change&roleid=60000003&changecount=135&newcount=675&reason=got_quest&rolelevel=9&time=1418208029
+cmd=role_quest_log&roleid=60000003&action=compelete&quest=100100032&rolelevel=9&time=1418208029
+cmd=role_quest_log&roleid=60000003&action=accept&quest=100100035&rolelevel=9&time=1418208030
+cmd=role_get_item&roleid=60000003&item=[{1490000001,1116000008}]&count=1&proto=11040601&reason=goals_bonus&rolelevel=9&time=1418208071
+cmd=goals_reward_log&roleid=60000003&rolelevel=9&days=1&part=1&bonus=[{11040601,1}]&time=1418208071

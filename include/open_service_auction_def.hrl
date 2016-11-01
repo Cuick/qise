@@ -1,0 +1,1 @@
+-record (bi, {year, mon, day, hour, min, name, bid}).

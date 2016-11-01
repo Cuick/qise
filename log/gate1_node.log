@@ -1,0 +1,142 @@
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+need wait nodes ['line@127.0.0.1','timer@127.0.0.1','db@127.0.0.1',
+                 'guild@127.0.0.1','auth@127.0.0.1','gm@127.0.0.1',
+                 'chat1@127.0.0.1','map1@127.0.0.1','map2@127.0.0.1',
+                 'map3@127.0.0.1','map4@127.0.0.1','gate1@127.0.0.1',
+                 'gate2@127.0.0.1','api@127.0.0.1'] 
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+ping Node 'line@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+ping Node 'timer@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'db@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'guild@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'auth@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'gm@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'chat1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'map1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map3@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map4@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'api@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:43 ===
+db_operater_mod start end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:44 ===
+global_wait finished 
+
+=INFO REPORT==== 10-Dec-2014::18:36:45 ===
+wait_tables_in_dbnode end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:50 ===
+ets [role_db,login_pb,senswords,item_template_db,blackip,whiteip,
+     system_chat_db,autoname_db,map_info_db] are ok now!
+
+=INFO REPORT==== 10-Dec-2014::18:36:50 ===
+Game Gate Started at #Port<0.5974> : 8001
+
+=INFO REPORT==== 10-Dec-2014::18:36:55 ===
+accepted TCP connection on 0.0.0.0:8001 from 192.168.41.148:42321
+
+=INFO REPORT==== 10-Dec-2014::18:36:55 ===
+start one client process pid = <0.265.0> sock = #Port<0.5982>
+
+=INFO REPORT==== 10-Dec-2014::18:36:55 ===
+close socket call back called
+
+=INFO REPORT==== 10-Dec-2014::18:37:15 ===
+accepted TCP connection on 0.0.0.0:8001 from 192.168.41.148:42326
+
+=INFO REPORT==== 10-Dec-2014::18:37:15 ===
+start one client process pid = <0.276.0> sock = #Port<0.5990>
+
+=INFO REPORT==== 10-Dec-2014::18:37:15 ===
+close socket call back called
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+accepted TCP connection on 0.0.0.0:8001 from 192.168.41.148:42334
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+start one client process pid = <0.301.0> sock = #Port<0.6003>
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+close socket call back called
+
+=INFO REPORT==== 10-Dec-2014::18:38:28 ===
+accepted TCP connection on 0.0.0.0:8001 from 192.168.41.148:42343
+
+=INFO REPORT==== 10-Dec-2014::18:38:28 ===
+start one client process pid = <0.318.0> sock = #Port<0.6012>
+
+=INFO REPORT==== 10-Dec-2014::18:38:28 ===
+close socket call back called
+
+=INFO REPORT==== 10-Dec-2014::18:38:48 ===
+accepted TCP connection on 0.0.0.0:8001 from 192.168.41.148:42347
+
+=INFO REPORT==== 10-Dec-2014::18:38:48 ===
+start one client process pid = <0.335.0> sock = #Port<0.6021>
+
+=INFO REPORT==== 10-Dec-2014::18:38:48 ===
+close socket call back called
+
+=INFO REPORT==== 10-Dec-2014::18:38:53 ===
+accepted TCP connection on 0.0.0.0:8001 from 192.168.41.148:42350
+
+=INFO REPORT==== 10-Dec-2014::18:38:53 ===
+start one client process pid = <0.336.0> sock = #Port<0.6022>
+
+=INFO REPORT==== 10-Dec-2014::18:38:53 ===
+close socket call back called
+
+=INFO REPORT==== 10-Dec-2014::18:38:53 ===
+accepted TCP connection on 0.0.0.0:8001 from 192.168.41.148:42351
+
+=INFO REPORT==== 10-Dec-2014::18:38:53 ===
+start one client process pid = <0.337.0> sock = #Port<0.6023>
+
+=INFO REPORT==== 10-Dec-2014::18:39:11 ===
+db_template create_template_role ServerId 1 Account "11111" 
+** at node db@127.0.0.1 **
+
+=INFO REPORT==== 10-Dec-2014::18:39:11 ===
+role_create_deploy, pos 1
+** at node db@127.0.0.1 **
+
+=INFO REPORT==== 10-Dec-2014::18:39:12 ===
+start_chat_role
+
+=INFO REPORT==== 10-Dec-2014::18:53:29 ===
+role_manager:stop_role_processor:'map1@127.0.0.1',60000003,'60000003'
+
+=INFO REPORT==== 10-Dec-2014::18:53:29 ===
+close socket call back called

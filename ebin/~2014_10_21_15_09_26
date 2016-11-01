@@ -1,0 +1,5 @@
+cmd=create_role&username=111&userid=111&rolename=%E5%A4%A9%E4%BB%99v%E5%87%A1%E6%9B%BC&roleid=60000002&roleclass=3&gender=0&ipaddress=192.168.41.185&pf=dev&is_robot=0&time=1413875366
+cmd=role_login&roleid=60000002&ipaddress=192.168.41.185&rolelevel=1&time=1413875367
+cmd=role_power_gather&roleid=60000002&power=19&class=3&rolelevel=1&time=1413875368
+cmd=role_items&roleid=60000002&items=&time=1413875401
+cmd=role_logout&roleid=60000002&ipaddress=192.168.41.185&timeonline=34&rolelevel=1&time=1413875401

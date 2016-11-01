@@ -1,0 +1,161 @@
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+db_operater_mod start end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+need wait nodes ['line@127.0.0.1','timer@127.0.0.1','db@127.0.0.1',
+                 'guild@127.0.0.1','auth@127.0.0.1','gm@127.0.0.1',
+                 'chat1@127.0.0.1','map1@127.0.0.1','map2@127.0.0.1',
+                 'map3@127.0.0.1','map4@127.0.0.1','gate1@127.0.0.1',
+                 'gate2@127.0.0.1','api@127.0.0.1'] 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+ping Node 'line@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+ping Node 'timer@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+ping Node 'db@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+ping Node 'guild@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+ping Node 'auth@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+ping Node 'gm@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+ping Node 'chat1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:08 ===
+ping Node 'map1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map3@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map4@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'api@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:12 ===
+global_wait finished 
+
+=INFO REPORT==== 10-Dec-2014::18:36:16 ===
+wait_tables_in_dbnode end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:25 ===
+ets [] are ok now!
+
+=INFO REPORT==== 10-Dec-2014::18:36:25 ===
+ERROR: "===============Mysql server info ============== ===:~s-~s-~s~n" - ["127.0.0.1",
+                                                                                                    3306,
+                                                                                                    "qszl_zydl_1"]
+
+=INFO REPORT==== 10-Dec-2014::18:36:26 ===
+GM Started at #Port<0.6150> : 10001
+
+=ERROR REPORT==== 10-Dec-2014::18:39:11 ===
+** Generic server gm_msgwrite_mysql terminating 
+** Last message in was {msg_write_db,[{"cmd","create_role"},
+                                      {"username",<<"11111">>},
+                                      {"userid","11111"},
+                                      {"rolename",
+                                       <<228,186,148,232,161,140,118,229,174,
+                                         137>>},
+                                      {"roleid",60000003},
+                                      {"roleclass",1},
+                                      {"gender",0},
+                                      {"ipaddress","192.168.41.148"},
+                                      {"pf","dev"},
+                                      {"is_robot",0},
+                                      {"create_time",1418207951}]}
+** When Server state == {state,0,1000,120000,
+                               [{create_role,30000},{gold_change,60000}]}
+** Reason for termination == 
+** {noproc,{gen_server,call,
+                       [mysql_dispatcher,
+                        {fetch,pmxy_pool,
+                               ["insert into ","role_user","(",
+                                "username, userid, rolename, roleid, roleclass, gender, ipaddress, pf, is_robot, create_time",
+                                ") values ('",
+                                [49,49,49,49,49,39,44,32,39,49,49,49,49,49,39,
+                                 44,32,39,228,186,148,232,161,140,118,229,174,
+                                 137,39,44,32,39,54,48,48,48,48,48,48,51,39,
+                                 44,32,39,49,39,44,32,39,48,39,44,32,39,51,50,
+                                 51,50,50,52,54,49,54,52,39,44,32,39,100,101,
+                                 118,39,44,32,39,48,39,44,32,39,49,52,49,56,
+                                 50,48,55,57,53,49],
+                                "');"]}]}}
+
+=ERROR REPORT==== 10-Dec-2014::18:39:11 ===
+** Generic server gm_msgwrite_mysql terminating 
+** Last message in was {msg_write_db,[{"cmd","role_position"},
+                                      {"roleid",60000003},
+                                      {"mapid",0},
+                                      {"line",0}]}
+** When Server state == {state,0,1000,120000,
+                               [{create_role,30000},{gold_change,60000}]}
+** Reason for termination == 
+** {noproc,{gen_server,call,
+                       [mysql_dispatcher,
+                        {fetch,pmxy_pool,
+                               ["insert into ","role_position","(",
+                                "roleid, mapid, line",") values ('",
+                                "60000003', '0', '0","');"]}]}}
+
+=ERROR REPORT==== 10-Dec-2014::18:39:12 ===
+** Generic server gm_msgwrite_mysql terminating 
+** Last message in was {msg_update_db,"role_position",
+                                      ["mapid","line"],
+                                      ["103","1"],
+                                      "roleid='60000003'"}
+** When Server state == {state,2,1000,120000,
+                               [{create_role,30000},{gold_change,60000}]}
+** Reason for termination == 
+** {noproc,{gen_server,call,
+                       [mysql_dispatcher,
+                        {fetch,pmxy_pool,
+                               ["update ","role_position"," set ",
+                                "mapid='103', line='1'"," where ",
+                                "roleid='60000003'",";"]}]}}
+
+=ERROR REPORT==== 10-Dec-2014::18:41:12 ===
+** Generic server gm_msgwrite_mysql terminating 
+** Last message in was {flush_buffer}
+** When Server state == {state,46,1000,120000,
+                               [{create_role,30000},{gold_change,60000}]}
+** Reason for termination == 
+** {noproc,{gen_server,call,
+                       [mysql_dispatcher,
+                        {fetch,pmxy_pool,
+                               ["insert into ","log_role_get_item"," values ",
+                                "('60000003', '[{1490000001,1116000001}]', '1', '10011001', 'got_quest', '1', '1418207978'),('60000003', '[{1490000001,1116000002}]', '1', '12010711', 'got_quest', '2', '1418207987'),('60000003', '[{1490000001,1116000003}]', '1', '12010511', 'got_quest', '3', '1418207994'),('60000003', '[{1490000001,1116000004}]', '20', '11010101', 'got_quest', '4', '1418208001'),('60000003', '[{1490000001,1116000005}]', '20', '11030101', 'got_quest', '4', '1418208008'),('60000003', '[{1490000001,1116000006}]', '1', '11020201', 'got_quest', '8', '1418208025'),('60000003', '[{1490000001,1116000007}]', '1', '12010611', 'got_quest', '9', '1418208029'),('60000003', '[{1490000001,1116000008}]', '1', '11040601', 'goals_bonus', '9', '1418208071')",
+                                ";"]}]}}
+
+=ERROR REPORT==== 10-Dec-2014::18:43:12 ===
+** Generic server gm_msgwrite_mysql terminating 
+** Last message in was {flush_buffer}
+** When Server state == {state,1,1000,120000,
+                               [{create_role,30000},{gold_change,60000}]}
+** Reason for termination == 
+** {noproc,{gen_server,call,
+                       [mysql_dispatcher,
+                        {fetch,pmxy_pool,
+                               ["insert into ","log_role_enchantments_item",
+                                " values ",
+                                "('60000003', '12010611', 'putup', '1', '9', '1418208088')",
+                                ";"]}]}}

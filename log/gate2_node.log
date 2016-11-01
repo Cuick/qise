@@ -1,0 +1,65 @@
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+need wait nodes ['line@127.0.0.1','timer@127.0.0.1','db@127.0.0.1',
+                 'guild@127.0.0.1','auth@127.0.0.1','gm@127.0.0.1',
+                 'chat1@127.0.0.1','map1@127.0.0.1','map2@127.0.0.1',
+                 'map3@127.0.0.1','map4@127.0.0.1','gate1@127.0.0.1',
+                 'gate2@127.0.0.1','api@127.0.0.1'] 
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+ping Node 'line@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+ping Node 'timer@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'db@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'guild@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'auth@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'gm@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'chat1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:44 ===
+ping Node 'map1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map3@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map4@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'api@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:44 ===
+db_operater_mod start end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:45 ===
+global_wait finished 
+
+=INFO REPORT==== 10-Dec-2014::18:36:45 ===
+wait_tables_in_dbnode end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:52 ===
+ets [role_db,login_pb,senswords,item_template_db,blackip,whiteip,
+     system_chat_db,autoname_db,map_info_db] are ok now!
+
+=INFO REPORT==== 10-Dec-2014::18:36:52 ===
+Game Gate Started at #Port<0.5971> : 7001

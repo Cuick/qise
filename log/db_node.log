@@ -1,0 +1,12 @@
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+need wait nodes ['timer@127.0.0.1'] 
+
+=INFO REPORT==== 10-Dec-2014::18:35:43 ===
+ping Node 'timer@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:35:45 ===
+global_wait finished 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+db_operater_mod start end 

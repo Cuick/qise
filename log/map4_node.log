@@ -1,0 +1,991 @@
+
+=INFO REPORT==== 10-Dec-2014::18:36:09 ===
+need wait nodes ['line@127.0.0.1','timer@127.0.0.1','db@127.0.0.1',
+                 'guild@127.0.0.1','auth@127.0.0.1','gm@127.0.0.1',
+                 'chat1@127.0.0.1','map1@127.0.0.1','map2@127.0.0.1',
+                 'map3@127.0.0.1','map4@127.0.0.1','gate1@127.0.0.1',
+                 'gate2@127.0.0.1','api@127.0.0.1'] 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+ping Node 'line@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+ping Node 'timer@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+ping Node 'db@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+ping Node 'guild@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+ping Node 'auth@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+ping Node 'gm@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+ping Node 'chat1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:10 ===
+ping Node 'map1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map3@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'map4@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate1@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'gate2@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+ping Node 'api@127.0.0.1' 
+
+=INFO REPORT==== 10-Dec-2014::18:36:11 ===
+db_operater_mod start end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:12 ===
+global_wait finished 
+
+=INFO REPORT==== 10-Dec-2014::18:36:12 ===
+wait_for_all_db_tables ing 
+
+=INFO REPORT==== 10-Dec-2014::18:36:16 ===
+wait_tables_in_dbnode end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:29 ===
+read error {no_exists,{title_role,disc_copies}} Table title_role 
+** at node db@127.0.0.1 **
+
+=INFO REPORT==== 10-Dec-2014::18:36:29 ===
+read_rpc error {no_exists,{title_role,disc_copies}} Table title_role 
+
+=INFO REPORT==== 10-Dec-2014::18:36:29 ===
+init_ets ets_title_role failed from db title_role,{failed,
+                                                   {no_exists,
+                                                    {title_role,disc_copies}}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:30 ===
+wait_for_all_db_tables end 
+
+=INFO REPORT==== 10-Dec-2014::18:36:31 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:32 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:32 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:33 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:33 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:34 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:34 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:35 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:35 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:36 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:36 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:37 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:37 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:38 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:38 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:39 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:39 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:40 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:40 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:41 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:41 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:42 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:42 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:43 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:43 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:44 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:44 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:45 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:45 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:46 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:46 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:47 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:47 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:48 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:48 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:49 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:49 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:50 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:50 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:51 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:51 ===
+wait_lines_manager whereis_name() exit {noproc,
+                                        {gen_server,call,
+                                         [{lines_manager,'line@127.0.0.1'},
+                                          wait_lines_manager,5000]}} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:52 ===
+wait_lines_manager_loop 
+
+=INFO REPORT==== 10-Dec-2014::18:36:52 ===
+load map file File "../maps/map_ext_4003" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:53 ===
+load map file File "../maps/map_ext_7004" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:53 ===
+load map file File "../maps/map_ext_8003" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:53 ===
+load map file File "../maps/map_ext_7019" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:54 ===
+load map file File "../maps/map_ext_7022" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:54 ===
+load map file File "../maps/map_ext_7010" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:54 ===
+load map file File "../maps/map_ext_7023" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:55 ===
+load map file File "../maps/map_ext_339" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:55 ===
+load map file File "../maps/map_ext_602" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:55 ===
+load map file File "../maps/map_ext_4104" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:55 ===
+load map file File "../maps/map_ext_4112" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:55 ===
+load map file File "../maps/map_ext_4000" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:58 ===
+load map file File "../maps/map_ext_5006" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:59 ===
+load map file File "../maps/map_ext_7025" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:36:59 ===
+load map file File "../maps/map_ext_700" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:02 ===
+load map file File "../maps/map_ext_4108" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:02 ===
+load map file File "../maps/map_ext_7007" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:02 ===
+load map file File "../maps/map_ext_1812" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:02 ===
+load map file File "../maps/map_1812" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:02 ===
+load map file File "../maps/map_ext_1301" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:03 ===
+load map file File "../maps/map_ext_701" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:03 ===
+load map file File "../maps/map_ext_1811" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:03 ===
+load map file File "../maps/map_1811" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:03 ===
+load map file File "../maps/map_ext_4107" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:03 ===
+load map file File "../maps/map_ext_4109" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:03 ===
+load map file File "../maps/map_ext_8100" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:04 ===
+load map file File "../maps/map_ext_4103" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:04 ===
+load map file File "../maps/map_ext_800" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:05 ===
+load map file File "../maps/map_ext_600" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:06 ===
+load map file File "../maps/map_ext_7018" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:07 ===
+load map file File "../maps/map_ext_200" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:08 ===
+load map file File "../maps/map_ext_5003" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:08 ===
+load map file File "../maps/map_ext_330" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:09 ===
+load map file File "../maps/map_ext_7015" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:10 ===
+load map file File "../maps/map_ext_1300" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:12 ===
+load map file File "../maps/map_ext_6002" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:13 ===
+load map file File "../maps/map_ext_5004" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:13 ===
+load map file File "../maps/map_ext_4105" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:13 ===
+load map file File "../maps/map_ext_8010" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:13 ===
+load map file File "../maps/map_ext_4113" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:14 ===
+load map file File "../maps/map_ext_900" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:15 ===
+load map file File "../maps/map_ext_1001" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:15 ===
+load map file File "../maps/map_ext_6004" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:15 ===
+load map file File "../maps/map_ext_4002" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:16 ===
+load map file File "../maps/map_ext_4114" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:16 ===
+load map file File "../maps/map_ext_7021" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:17 ===
+load map file File "../maps/map_ext_103" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:18 ===
+load map file File "../maps/map_ext_8002" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:18 ===
+load map file File "../maps/map_ext_4100" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:19 ===
+load map file File "../maps/map_ext_1601" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:20 ===
+load map file File "../maps/map_ext_1403" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:20 ===
+load map file File "../maps/map_1403" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:22 ===
+load map file File "../maps/map_ext_5005" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:22 ===
+load map file File "../maps/map_ext_332" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:22 ===
+load map file File "../maps/map_332" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:22 ===
+load map file File "../maps/map_ext_1401" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:23 ===
+load map file File "../maps/map_ext_8009" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:23 ===
+load map file File "../maps/map_ext_7012" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:23 ===
+load map file File "../maps/map_ext_7030" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:24 ===
+load map file File "../maps/map_ext_1100" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:25 ===
+load map file File "../maps/map_ext_1400" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:27 ===
+load map file File "../maps/map_ext_7002" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:28 ===
+load map file File "../maps/map_ext_4001" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:29 ===
+load map file File "../maps/map_ext_601" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:29 ===
+load map file File "../maps/map_ext_8001" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:29 ===
+load map file File "../maps/map_ext_331" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:29 ===
+load map file File "../maps/map_331" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:34 ===
+load map file File "../maps/map_ext_7027" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:36 ===
+load map file File "../maps/map_ext_7008" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:36 ===
+load map file File "../maps/map_ext_4106" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:36 ===
+load map file File "../maps/map_ext_7028" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:37 ===
+load map file File "../maps/map_ext_8004" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:37 ===
+load map file File "../maps/map_ext_5002" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:37 ===
+load map file File "../maps/map_ext_7014" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:38 ===
+load map file File "../maps/map_ext_7005" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:38 ===
+load map file File "../maps/map_ext_333" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:39 ===
+load map file File "../maps/map_ext_1500" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:43 ===
+load map file File "../maps/map_ext_501" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:43 ===
+load map file File "../maps/map_ext_500" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:45 ===
+load map file File "../maps/map_ext_7017" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:46 ===
+load map file File "../maps/map_ext_8006" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:46 ===
+load map file File "../maps/map_ext_6004" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:46 ===
+load map file File "../maps/map_ext_605" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:47 ===
+load map file File "../maps/map_ext_9000" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:48 ===
+load map file File "../maps/map_ext_7001" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:48 ===
+load map file File "../maps/map_ext_7006" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:49 ===
+load map file File "../maps/map_ext_802" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:50 ===
+load map file File "../maps/map_ext_4102" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:50 ===
+load map file File "../maps/map_ext_4110" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:50 ===
+load map file File "../maps/map_ext_7024" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:51 ===
+load map file File "../maps/map_ext_4004" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:53 ===
+load map file File "../maps/map_ext_8005" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:53 ===
+load map file File "../maps/map_ext_603" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:53 ===
+load map file File "../maps/map_ext_101" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:54 ===
+load map file File "../maps/map_ext_4115" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:54 ===
+load map file File "../maps/map_ext_7003" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:54 ===
+load map file File "../maps/map_ext_1600" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:57 ===
+load map file File "../maps/map_ext_901" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:58 ===
+load map file File "../maps/map_ext_902" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:58 ===
+load map file File "../maps/map_ext_8007" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:58 ===
+load map file File "../maps/map_ext_5010" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:58 ===
+load map file File "../maps/map_5010" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:58 ===
+load map file File "../maps/map_ext_8008" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:58 ===
+load map file File "../maps/map_ext_502" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:59 ===
+load map file File "../maps/map_ext_2001" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:37:59 ===
+load map file File "../maps/map_ext_7029" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:00 ===
+load map file File "../maps/map_ext_7020" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:00 ===
+load map file File "../maps/map_ext_4200" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:02 ===
+load map file File "../maps/map_ext_7016" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:02 ===
+load map file File "../maps/map_ext_4101" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:02 ===
+load map file File "../maps/map_ext_7013" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:02 ===
+load map file File "../maps/map_ext_4111" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:03 ===
+load map file File "../maps/map_ext_6001" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:03 ===
+load map file File "../maps/map_ext_7026" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:03 ===
+load map file File "../maps/map_ext_7011" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:04 ===
+load map file File "../maps/map_ext_5001" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+load map file File "../maps/map_ext_102" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+load map file File "../maps/map_102" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+load map file File "../maps/map_ext_7009" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:05 ===
+load map file File "../maps/map_ext_801" {error,enoent} 
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+send to lines_manager {'map4@127.0.0.1',local_map_manager}
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+receive the msg:start_map_process Line 4 Map 4003
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+receive the msg:start_map_process Line 4 Map 7004
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+receive the msg:start_map_process Line 4 Map 8003
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+receive the msg:start_map_process Line 4 Map 7019
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+receive the msg:start_map_process Line 4 Map 7022
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+receive the msg:start_map_process Line 4 Map 7010
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+receive the msg:start_map_process Line 4 Map 503
+
+=INFO REPORT==== 10-Dec-2014::18:38:06 ===
+receive the msg:start_map_process Line 4 Map 7023
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 602
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 4000
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 1200
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 5006
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 321
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+npc_chess_spirit init error 2032111 
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 604
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 7025
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 1201
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 310
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 700
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 7007
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 1812
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 1301
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 701
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 1811
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 8100
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 800
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 312
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 600
+
+=INFO REPORT==== 10-Dec-2014::18:38:07 ===
+receive the msg:start_map_process Line 4 Map 7018
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 200
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 1202
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 5003
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 330
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 7015
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 304
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 1300
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 6002
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 5004
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 306
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 8010
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 900
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 1001
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 6004
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 4002
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 7021
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 305
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 311
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 103
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 8002
+
+=INFO REPORT==== 10-Dec-2014::18:38:08 ===
+receive the msg:start_map_process Line 4 Map 309
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 4100
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 1601
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 302
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 1403
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 1000
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 5005
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 332
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 1401
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 8009
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 7012
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 7030
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 1100
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 1400
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 7002
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 4001
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 601
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 8001
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 331
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 300
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 7027
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 7008
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 7028
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 8004
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 5002
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 301
+
+=INFO REPORT==== 10-Dec-2014::18:38:09 ===
+receive the msg:start_map_process Line 4 Map 313
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 303
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 7014
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 7005
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 333
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 1500
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 501
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 500
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 7017
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 8006
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 6005
+
+=INFO REPORT==== 10-Dec-2014::18:38:10 ===
+receive the msg:start_map_process Line 4 Map 605
+
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+receive the msg:start_map_process Line 4 Map 9000
+
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+receive the msg:start_map_process Line 4 Map 7001
+
+=INFO REPORT==== 10-Dec-2014::18:38:11 ===
+receive the msg:start_map_process Line 4 Map 7006
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 802
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 1203
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 7024
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 4004
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 8005
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 603
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 101
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 320
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 7003
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 1600
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 901
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 902
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 8007
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 5010
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 8008
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 502
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 2001
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 7029
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 7020
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 4200
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 7016
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 7013
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 6001
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 7026
+
+=INFO REPORT==== 10-Dec-2014::18:38:12 ===
+receive the msg:start_map_process Line 4 Map 7011
+
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+receive the msg:start_map_process Line 4 Map 307
+
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+receive the msg:start_map_process Line 4 Map 5001
+
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+receive the msg:start_map_process Line 4 Map 100
+
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+receive the msg:start_map_process Line 4 Map 102
+
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+receive the msg:start_map_process Line 4 Map 7009
+
+=INFO REPORT==== 10-Dec-2014::18:38:13 ===
+receive the msg:start_map_process Line 4 Map 801

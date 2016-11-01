@@ -1,0 +1,28 @@
+[
+	{platform,"dev"},
+	{serverid,1},
+	{serverids,[1]}, 
+	{cookie,'E3it45tiOjLi&fie8Hje56uMu67h'},
+	{travel_battle_server,0},
+	{gateport,[{'gate1',8001},{'gate2',7001}]},
+	{gmport,[{'gm',10001}]},
+	{apiport,[{'api',9001}]},
+	{gmsecretkey,"E3it45taadfasxcyerfs%&*&6uMu67h"},
+	{platform_key,[{"dev","1bA3blMO9xCu7rvN8hp7Jo"}]},
+	{platform_timeout,3600},
+	{gmauthttimeout,3600},
+	{gmiplist,[{"192.168.1.1","192.168.1.254"},{"192.168.0.1","192.168.0.254"},{"127.0.0.1","127.0.0.1"}]},
+	{apisecretkey,"E3it45taadfasxcyerfs%&&6uMu67h"},
+	{apiiplist,[{"127.0.0.1","127.0.0.1"}]},
+	{mysql,[
+		{host,"127.0.0.1"},
+		{usr,"root"},
+		{password,"123456"},
+		{port,3306},
+		{database,"qszl_zydl_1"},
+		{init_conn_nums,30},
+		{min_conn_nums,5},
+		{max_conn_nums,50}
+		]},
+	{pre_connect_nodes,['line@127.0.0.1','timer@127.0.0.1','db@127.0.0.1','guild@127.0.0.1','auth@127.0.0.1','gm@127.0.0.1','chat1@127.0.0.1','map1@127.0.0.1','map2@127.0.0.1','map3@127.0.0.1','map4@127.0.0.1','gate1@127.0.0.1','gate2@127.0.0.1','api@127.0.0.1']}
+].

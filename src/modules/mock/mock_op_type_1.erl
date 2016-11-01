@@ -1,0 +1,1 @@
+-module (mock_op_type_1).

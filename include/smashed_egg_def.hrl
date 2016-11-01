@@ -1,0 +1,3 @@
+-record(smashed_egg_item_list,{roleid,item_list}).
+-record(smashed_egg_type,{type,protoid_list}).				%%锤子类型，对应的模板Id[绑定模板Id,非绑定模板Id]
+-record(smashed_egg_drop,{place,drop}).
